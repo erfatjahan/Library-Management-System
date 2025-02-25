@@ -1,0 +1,56 @@
+<nav class="flex items-center justify-between flex-wrap bg-black text-white p-6 px-10">
+    <div class="flex items-center flex-shrink-0 text-white mr-6">
+        <span class="font-extrabold text-2xl  italic tracking-tight text-blue-900"><a href="/" class="text-white">The Fairyland</a></span>
+    </div>
+    <div class="block lg:hidden">
+        <button class="flex items-center px-3 py-2 border rounded text-white border-white-400 hover:text-white hover:border-white">
+            <svg class="fill-current h-3 w-3" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Menu</title><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/></svg>
+        </button>
+    </div>
+    <!-- Register Login non logged in user er jonne -->
+    <!-- Report , Withdraw, Deposit       Profile Logout logged in user -->
+    <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto px-10">
+        
+            <div class="text-md lg:flex-grow">
+                <a href="{% url 'all_books' %}" class="block text-white font-bold mt-4 lg:inline-block lg:mt-0 hover:text-red-900 hover:font-black mr-4">
+                    Explore Book
+                </a>
+            </div>
+            <div class="relative flex items-center">
+                <input type="text" placeholder="Search..." class="border border-gray-300 bg-white h-10 px-5 pr-10 rounded-lg text-black text-sm focus:outline-none w-64">
+                <button type="submit" class="absolute right-0 top-0 mt-3 mr-4">
+                    <svg class="h-5 w-5 text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-4.35-4.35M15 10A5 5 0 105 10a5 5 0 0010 0z"></path>
+                    </svg>
+                </button>
+            </div>
+            
+              
+              
+            
+
+            {% if request.user.is_authenticated %}
+              
+            
+            <div class="flex w-auto">
+                <div class="text-white my-auto font-black px-5">Hi, {{ request.user.first_name }} (Your Balance : {{request.user.accounts.balance}})</div>
+                <a href="{% url 'add_money' %}" class="inline-block font-medium text-sm px-4 py-2 leading-none bg-blue-900 rounded text-white border-white hover:border-transparent hover:text-dark hover:bg-red-700 mt-4 lg:mt-0">Add Money</a>
+                
+
+                <a href="{% url 'profile' %}" class="mx-2 inline-block font-medium text-sm px-4 py-2 leading-none bg-blue-900 rounded text-white border-white hover:border-transparent hover:text-dark hover:bg-red-700 mt-4 lg:mt-0">Profile</a>
+                <a href="{% url 'logout' %}" class="inline-block font-medium text-sm px-4 py-2 leading-none bg-blue-900 rounded text-white border-white hover:border-transparent hover:text-dark hover:bg-red-700 mt-4 lg:mt-0">Logout</a>
+            </div>
+
+            {% else %}
+
+            <div class="text-md lg:flex-grow"></div>
+            <div>
+                <a href="{% url 'registration' %}" class="mr-2 inline-block font-medium text-sm px-4 py-2 leading-none bg-blue-900 rounded text-white border-white hover:border-transparent hover:text-gray-800 hover:bg-white mt-4 lg:mt-0">Register</a>
+            </div>
+            <div>
+                <a href="{% url 'login' %}" class="mr-2 inline-block font-medium text-sm px-4 py-2 leading-none bg-blue-900 rounded text-white border-white hover:border-transparent hover:text-gray-800 hover:bg-red-700 mt-4 lg:mt-0">Login</a>
+            </div>
+
+            {% endif %}
+    </div>
+</nav>

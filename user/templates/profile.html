@@ -1,0 +1,51 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+<h2 class="text-center mt-3 text-3xl font-bold">Edit Your Profile</h2>
+<div class="flex justify-center items-center gap-4 my-10">
+    <a href="" class="bg-green-500 hover:bg-green-700 text-black font-bold py-2 px-4 rounded">
+        Update Profile
+    </a>
+    <a href="#" class="bg-green-500 hover:bg-green-700 text-black font-bold py-2 px-4 rounded">
+        Change Password
+    </a>
+</div>
+
+<hr class="my-8">
+<h1 class="text-center text-3xl font-bold">Purchase History</h1>
+<table class="table-auto border border-blue-500 mx-auto my-4" style="width:90%;">
+    <thead class="bg-blue-200">
+    <tr>
+        <th class="border border-blue-500 px-4 py-2">Sr.</th>
+        <th class="border border-blue-500 px-4 py-2">Book Name</th>
+        <th class="border border-blue-500 px-4 py-2">Category</th>
+        <th class="border border-blue-500 px-4 py-2">Price</th>
+        <th class="border border-blue-500 px-4 py-2">Borrowed Date</th>
+        <th class="border border-blue-500 px-4 py-2">Quantity</th>
+        <th class="border border-blue-500 px-4 py-2">Description</th>
+        <th class="border border-blue-500 px-4 py-2">Return</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for book in books %}
+    <tr>
+        <!-- ekahen ami book.id use na kore django er forloop.counter use korechi karon bar bar serial 1 theke count hobe mane sort thakbe-->
+        <td class="border border-blue-500 px-4 py-2">{{forloop.counter}}</td>
+        <td class="border border-blue-500 px-4 py-2">{{book.Book.title}}</td>
+        <td class="border border-blue-500 px-4 py-2">{{book.Book.category.name}}</td>
+        <td class="border border-blue-500 px-4 py-2">{{book.Book.price}}</td>
+        <td class="border border-blue-500 px-4 py-2">
+            <a href="#" class="underline">{{ book.purchase_date }}</a>
+        </td>
+        <td class="border border-blue-500 px-4 py-2">{{book.Book.quantity}}</td>
+        <td class="border border-blue-500 px-4 py-2">{{book.Book.description | truncatewords:10}}</td>
+        <td class="border border-blue-500 px-4 py-2">
+            <a href="{% url 'return_book' book.Book.id %}" class="bg-red-600 hover:bg-red-700 text-white font-bold py-1 px-4 rounded">
+                Return
+            </a>
+        </td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+{% endblock content %}

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Fairyland</title>
+    <link rel="stylesheet" href="https://unpkg.com/tailwindcss@2.0.1/dist/tailwind.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+
+    {% block link %}
+      
+    {% endblock link %}
+
+</head>
+<body>
+
+    {% include "navbar.html" %}
+
+    
+        {% include 'messages.html' %}
+        {% block content %}
+        {% endblock %}
+  
+    {% include "footer.html" %}
+    
+
+    <script src="https://kit.fontawesome.com/4be82da04f.js" crossorigin="anonymous"></script>
+</body>
+</html>

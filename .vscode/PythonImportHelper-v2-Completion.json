@@ -1,0 +1,1359 @@
+[
+    {
+        "label": "django.core.validators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "detail": "django.core.validators",
+        "documentation": {}
+    },
+    {
+        "label": "MinValueValidator",
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "isExtraImport": true,
+        "detail": "django.core.validators",
+        "documentation": {}
+    },
+    {
+        "label": "MaxValueValidator",
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "isExtraImport": true,
+        "detail": "django.core.validators",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "BookModel",
+        "importPath": "books.models",
+        "description": "books.models",
+        "isExtraImport": true,
+        "detail": "books.models",
+        "documentation": {}
+    },
+    {
+        "label": "CommentModel",
+        "importPath": "books.models",
+        "description": "books.models",
+        "isExtraImport": true,
+        "detail": "books.models",
+        "documentation": {}
+    },
+    {
+        "label": "CommentModel",
+        "importPath": "books.models",
+        "description": "books.models",
+        "isExtraImport": true,
+        "detail": "books.models",
+        "documentation": {}
+    },
+    {
+        "label": "BookModel",
+        "importPath": "books.models",
+        "description": "books.models",
+        "isExtraImport": true,
+        "detail": "books.models",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryModel",
+        "importPath": "category.models",
+        "description": "category.models",
+        "isExtraImport": true,
+        "detail": "category.models",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryModel",
+        "importPath": "category.models",
+        "description": "category.models",
+        "isExtraImport": true,
+        "detail": "category.models",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryModel",
+        "importPath": "category.models",
+        "description": "category.models",
+        "isExtraImport": true,
+        "detail": "category.models",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse_lazy",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "DetailView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "ListView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "TemplateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "FormView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "PurchaseModel",
+        "importPath": "user.models",
+        "description": "user.models",
+        "isExtraImport": true,
+        "detail": "user.models",
+        "documentation": {}
+    },
+    {
+        "label": "PurchaseModel",
+        "importPath": "user.models",
+        "description": "user.models",
+        "isExtraImport": true,
+        "detail": "user.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserAccountModel",
+        "importPath": "user.models",
+        "description": "user.models",
+        "isExtraImport": true,
+        "detail": "user.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserAddressModel",
+        "importPath": "user.models",
+        "description": "user.models",
+        "isExtraImport": true,
+        "detail": "user.models",
+        "documentation": {}
+    },
+    {
+        "label": "GENDER",
+        "importPath": "user.models",
+        "description": "user.models",
+        "isExtraImport": true,
+        "detail": "user.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserAccountModel",
+        "importPath": "user.models",
+        "description": "user.models",
+        "isExtraImport": true,
+        "detail": "user.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserAddressModel",
+        "importPath": "user.models",
+        "description": "user.models",
+        "isExtraImport": true,
+        "detail": "user.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserAccountModel",
+        "importPath": "user.models",
+        "description": "user.models",
+        "isExtraImport": true,
+        "detail": "user.models",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "View",
+        "importPath": "django.views",
+        "description": "django.views",
+        "isExtraImport": true,
+        "detail": "django.views",
+        "documentation": {}
+    },
+    {
+        "label": "View",
+        "importPath": "django.views",
+        "description": "django.views",
+        "isExtraImport": true,
+        "detail": "django.views",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "dj_database_url",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "dj_database_url",
+        "description": "dj_database_url",
+        "detail": "dj_database_url",
+        "documentation": {}
+    },
+    {
+        "label": "environ",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "environ",
+        "description": "environ",
+        "detail": "environ",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserChangeForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "BuyBookView",
+        "importPath": "user.views",
+        "description": "user.views",
+        "isExtraImport": true,
+        "detail": "user.views",
+        "documentation": {}
+    },
+    {
+        "label": "RegistrationView",
+        "importPath": "user.views",
+        "description": "user.views",
+        "isExtraImport": true,
+        "detail": "user.views",
+        "documentation": {}
+    },
+    {
+        "label": "ReturnBookView",
+        "importPath": "user.views",
+        "description": "user.views",
+        "isExtraImport": true,
+        "detail": "user.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserLoginView",
+        "importPath": "user.views",
+        "description": "user.views",
+        "isExtraImport": true,
+        "detail": "user.views",
+        "documentation": {}
+    },
+    {
+        "label": "ChangeUserForm",
+        "importPath": "user.forms",
+        "description": "user.forms",
+        "isExtraImport": true,
+        "detail": "user.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserRegistrationForm",
+        "importPath": "user.forms",
+        "description": "user.forms",
+        "isExtraImport": true,
+        "detail": "user.forms",
+        "documentation": {}
+    },
+    {
+        "label": "AddMoneyForm",
+        "importPath": "user.forms",
+        "description": "user.forms",
+        "isExtraImport": true,
+        "detail": "user.forms",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "LoginView",
+        "importPath": "django.contrib.auth.views",
+        "description": "django.contrib.auth.views",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "LoginRequiredMixin",
+        "importPath": "django.contrib.auth.mixins",
+        "description": "django.contrib.auth.mixins",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "CommentForm",
+        "importPath": "books.forms",
+        "description": "books.forms",
+        "isExtraImport": true,
+        "detail": "books.forms",
+        "documentation": {}
+    },
+    {
+        "label": "EmailMultiAlternatives",
+        "importPath": "django.core.mail",
+        "description": "django.core.mail",
+        "isExtraImport": true,
+        "detail": "django.core.mail",
+        "documentation": {}
+    },
+    {
+        "label": "render_to_string",
+        "importPath": "django.template.loader",
+        "description": "django.template.loader",
+        "isExtraImport": true,
+        "detail": "django.template.loader",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "books.migrations.0001_initial",
+        "description": "books.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='BookModel',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('title', models.CharField(max_length=100)),",
+        "detail": "books.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "books.migrations.0002_bookmodel_category_bookmodel_quantity",
+        "description": "books.migrations.0002_bookmodel_category_bookmodel_quantity",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('books', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='bookmodel',\n            name='category',\n            field=models.CharField(blank=True, max_length=50, null=True),\n        ),",
+        "detail": "books.migrations.0002_bookmodel_category_bookmodel_quantity",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "books.migrations.0003_alter_bookmodel_category_commentmodel",
+        "description": "books.migrations.0003_alter_bookmodel_category_commentmodel",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('category', '0001_initial'),\n        ('books', '0002_bookmodel_category_bookmodel_quantity'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='bookmodel',\n            name='category',\n            field=models.ForeignKey(blank=True, max_length=50, null=True, on_delete=django.db.models.deletion.CASCADE, to='category.categorymodel'),",
+        "detail": "books.migrations.0003_alter_bookmodel_category_commentmodel",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "books.migrations.0004_alter_commentmodel_created_on",
+        "description": "books.migrations.0004_alter_commentmodel_created_on",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('books', '0003_alter_bookmodel_category_commentmodel'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='commentmodel',\n            name='created_on',\n            field=models.DateTimeField(auto_now_add=True, null=True),\n        ),",
+        "detail": "books.migrations.0004_alter_commentmodel_created_on",
+        "documentation": {}
+    },
+    {
+        "label": "BooksConfig",
+        "kind": 6,
+        "importPath": "books.apps",
+        "description": "books.apps",
+        "peekOfCode": "class BooksConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'books'",
+        "detail": "books.apps",
+        "documentation": {}
+    },
+    {
+        "label": "CommentForm",
+        "kind": 6,
+        "importPath": "books.forms",
+        "description": "books.forms",
+        "peekOfCode": "class CommentForm(forms.ModelForm):\n    class Meta:\n        model = CommentModel\n        fields = ['name', 'body']",
+        "detail": "books.forms",
+        "documentation": {}
+    },
+    {
+        "label": "BookModel",
+        "kind": 6,
+        "importPath": "books.models",
+        "description": "books.models",
+        "peekOfCode": "class BookModel(models.Model):\n    title = models.CharField(max_length=100)\n    price = models.DecimalField(max_digits=10, decimal_places=2, default=0)\n    description = models.TextField()\n    category = models.ForeignKey(CategoryModel, on_delete=models.CASCADE, max_length=50, null=True, blank=True)\n    image = models.ImageField(upload_to='images/')\n    rating = models.FloatField(default=0, validators=[MinValueValidator(0), MaxValueValidator(5)])\n    quantity = models.IntegerField(default=0, null=True, blank=True)\n    def __str__(self) -> str:\n        return f\"{self.category} -> {self.title}\"",
+        "detail": "books.models",
+        "documentation": {}
+    },
+    {
+        "label": "CommentModel",
+        "kind": 6,
+        "importPath": "books.models",
+        "description": "books.models",
+        "peekOfCode": "class CommentModel(models.Model):\n    name = models.CharField(max_length=30)\n    post_book = models.ForeignKey(BookModel, on_delete=models.CASCADE, related_name='comments')\n    body = models.TextField()\n    created_on = models.DateTimeField(auto_now_add=True, null=True, blank=True)\n    def __str__(self):\n        return f\"Commented by {self.name}\"",
+        "detail": "books.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "books.urls",
+        "description": "books.urls",
+        "peekOfCode": "urlpatterns = [\n    path('all_books/', all_books, name='all_books'),\n    path('details/<int:id>/', ShowDetails.as_view(), name='book_details'),\n    path('comment/<int:id>/', ShowDetails.as_view(), name='comment_page'),\n    path('category_wise_book/<slug:category_slug>/', all_books, name='category_wise_book'),\n]",
+        "detail": "books.urls",
+        "documentation": {}
+    },
+    {
+        "label": "ShowDetails",
+        "kind": 6,
+        "importPath": "books.views",
+        "description": "books.views",
+        "peekOfCode": "class ShowDetails(DetailView):\n    model = BookModel\n    template_name = 'details.html'\n    context_object_name = 'books'\n    pk_url_kwarg = 'id'\n    def get_context_data(self, **kwargs):\n        context = super().get_context_data(**kwargs)\n        book = self.get_object()\n        comments = book.comments.all()\n        comment_form = CommentForm()",
+        "detail": "books.views",
+        "documentation": {}
+    },
+    {
+        "label": "all_books",
+        "kind": 2,
+        "importPath": "books.views",
+        "description": "books.views",
+        "peekOfCode": "def all_books(request, category_slug=None):\n    books = BookModel.objects.all()\n    category = CategoryModel.objects.all()\n    if category_slug:\n        cat_type = CategoryModel.objects.filter(slug=category_slug).first()\n        if cat_type:\n            books = BookModel.objects.filter(category=cat_type)\n    return render(request, 'book_list.html', {'books': books, 'categories': category})\nclass ShowDetails(DetailView):\n    model = BookModel",
+        "detail": "books.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "category.migrations.0001_initial",
+        "description": "category.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='CategoryModel',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=50)),",
+        "detail": "category.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryAdmin",
+        "kind": 6,
+        "importPath": "category.admin",
+        "description": "category.admin",
+        "peekOfCode": "class CategoryAdmin(admin.ModelAdmin):\n    prepopulated_fields = {'slug': ('name',)}\n    list_display = ['name', 'slug'] # admin a name and slug field onujai dekhabe\nadmin.site.register(CategoryModel, CategoryAdmin)",
+        "detail": "category.admin",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryConfig",
+        "kind": 6,
+        "importPath": "category.apps",
+        "description": "category.apps",
+        "peekOfCode": "class CategoryConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'category'",
+        "detail": "category.apps",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryModel",
+        "kind": 6,
+        "importPath": "category.models",
+        "description": "category.models",
+        "peekOfCode": "class CategoryModel(models.Model):\n    name = models.CharField(max_length=50)\n    slug = models.SlugField(max_length=100, unique=True, null=True, blank=True)\n    def __str__(self) -> str:\n        return f\"{self.name}\"",
+        "detail": "category.models",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "library_management_system.asgi",
+        "description": "library_management_system.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "library_management_system.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "env",
+        "kind": 5,
+        "importPath": "library_management_system.settings",
+        "description": "library_management_system.settings",
+        "peekOfCode": "env = environ.Env()\nenviron.Env.read_env()\n# Build paths inside the project like this: BASE_DIR / 'subdir'.\nBASE_DIR = Path(__file__).resolve().parent.parent\n# Your secret key\nSECRET_KEY = env(\"SECRET_KEY\")\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\n# SECRET_KEY = 'django-insecure-kfdm^1#@l3qwd8#03!msp9q-y301z_^v=rqb1c3*&r-dzpneg_'",
+        "detail": "library_management_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "library_management_system.settings",
+        "description": "library_management_system.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Your secret key\nSECRET_KEY = env(\"SECRET_KEY\")\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\n# SECRET_KEY = 'django-insecure-kfdm^1#@l3qwd8#03!msp9q-y301z_^v=rqb1c3*&r-dzpneg_'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = [\"*\"]",
+        "detail": "library_management_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "library_management_system.settings",
+        "description": "library_management_system.settings",
+        "peekOfCode": "SECRET_KEY = env(\"SECRET_KEY\")\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\n# SECRET_KEY = 'django-insecure-kfdm^1#@l3qwd8#03!msp9q-y301z_^v=rqb1c3*&r-dzpneg_'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = [\"*\"]\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "library_management_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "library_management_system.settings",
+        "description": "library_management_system.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = [\"*\"]\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "library_management_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "library_management_system.settings",
+        "description": "library_management_system.settings",
+        "peekOfCode": "ALLOWED_HOSTS = [\"*\"]\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'books',",
+        "detail": "library_management_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "library_management_system.settings",
+        "description": "library_management_system.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'books',\n    'user',\n    'category',",
+        "detail": "library_management_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "library_management_system.settings",
+        "description": "library_management_system.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'library_management_system.urls'",
+        "detail": "library_management_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "library_management_system.settings",
+        "description": "library_management_system.settings",
+        "peekOfCode": "ROOT_URLCONF = 'library_management_system.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "library_management_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "library_management_system.settings",
+        "description": "library_management_system.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "library_management_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "library_management_system.settings",
+        "description": "library_management_system.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'library_management_system.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.2/ref/settings/#databases\n# DATABASES = {\n#     'default': {\n#         'ENGINE': 'django.db.backends.postgresql_psycopg2',\n#         'NAME': env(\"DB_NAME\"),\n#         'USER': env(\"DB_USER\"),\n#         'PASSWORD': env(\"DB_PASSWORD\"),\n#         'HOST': env(\"DB_HOST\"),",
+        "detail": "library_management_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "library_management_system.settings",
+        "description": "library_management_system.settings",
+        "peekOfCode": "DATABASES = {\n    'default': dj_database_url.config(\n        # Feel free to alter this value to suit your needs.\n        default='postgres://thefairyland_user:6XQZlN1Q6zLdmBwCQXcyQeKA6y9qrY9c@dpg-cm9heuvqd2ns73dq4d80-a.oregon-postgres.render.com/thefairyland',\n    )\n}\nCSRF_TRUSTED_ORIGINS = [\n    'https://the-fairyland.onrender.com',\n]\n# Password validation",
+        "detail": "library_management_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CSRF_TRUSTED_ORIGINS",
+        "kind": 5,
+        "importPath": "library_management_system.settings",
+        "description": "library_management_system.settings",
+        "peekOfCode": "CSRF_TRUSTED_ORIGINS = [\n    'https://the-fairyland.onrender.com',\n]\n# Password validation\n# https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {",
+        "detail": "library_management_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "library_management_system.settings",
+        "description": "library_management_system.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "library_management_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "library_management_system.settings",
+        "description": "library_management_system.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\nMEDIA_URL = '/media/'\nMEDIA_ROOT = BASE_DIR/'media'\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [BASE_DIR / \"static\"]",
+        "detail": "library_management_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "library_management_system.settings",
+        "description": "library_management_system.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\nMEDIA_URL = '/media/'\nMEDIA_ROOT = BASE_DIR/'media'\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [BASE_DIR / \"static\"]\nSTATIC_ROOT = BASE_DIR / \"staticfiles\"",
+        "detail": "library_management_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "library_management_system.settings",
+        "description": "library_management_system.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\nMEDIA_URL = '/media/'\nMEDIA_ROOT = BASE_DIR/'media'\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [BASE_DIR / \"static\"]\nSTATIC_ROOT = BASE_DIR / \"staticfiles\"\n# Default primary key field type",
+        "detail": "library_management_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "library_management_system.settings",
+        "description": "library_management_system.settings",
+        "peekOfCode": "USE_TZ = True\nMEDIA_URL = '/media/'\nMEDIA_ROOT = BASE_DIR/'media'\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [BASE_DIR / \"static\"]\nSTATIC_ROOT = BASE_DIR / \"staticfiles\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field",
+        "detail": "library_management_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "library_management_system.settings",
+        "description": "library_management_system.settings",
+        "peekOfCode": "MEDIA_URL = '/media/'\nMEDIA_ROOT = BASE_DIR/'media'\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [BASE_DIR / \"static\"]\nSTATIC_ROOT = BASE_DIR / \"staticfiles\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "library_management_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "library_management_system.settings",
+        "description": "library_management_system.settings",
+        "peekOfCode": "MEDIA_ROOT = BASE_DIR/'media'\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [BASE_DIR / \"static\"]\nSTATIC_ROOT = BASE_DIR / \"staticfiles\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nEMAIL_BACKEND='django.core.mail.backends.smtp.EmailBackend'",
+        "detail": "library_management_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "library_management_system.settings",
+        "description": "library_management_system.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\nSTATICFILES_DIRS = [BASE_DIR / \"static\"]\nSTATIC_ROOT = BASE_DIR / \"staticfiles\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nEMAIL_BACKEND='django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST='smtp.gmail.com'\nEMAIL_USE_TLS=True\nEMAIL_PORT=587",
+        "detail": "library_management_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "library_management_system.settings",
+        "description": "library_management_system.settings",
+        "peekOfCode": "STATICFILES_DIRS = [BASE_DIR / \"static\"]\nSTATIC_ROOT = BASE_DIR / \"staticfiles\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nEMAIL_BACKEND='django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST='smtp.gmail.com'\nEMAIL_USE_TLS=True\nEMAIL_PORT=587\nEMAIL_HOST_USER=env(\"EMAIL\")",
+        "detail": "library_management_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "library_management_system.settings",
+        "description": "library_management_system.settings",
+        "peekOfCode": "STATIC_ROOT = BASE_DIR / \"staticfiles\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nEMAIL_BACKEND='django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST='smtp.gmail.com'\nEMAIL_USE_TLS=True\nEMAIL_PORT=587\nEMAIL_HOST_USER=env(\"EMAIL\")\nEMAIL_HOST_PASSWORD=env(\"EMAIL_PASSWORD\")",
+        "detail": "library_management_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "library_management_system.settings",
+        "description": "library_management_system.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nEMAIL_BACKEND='django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST='smtp.gmail.com'\nEMAIL_USE_TLS=True\nEMAIL_PORT=587\nEMAIL_HOST_USER=env(\"EMAIL\")\nEMAIL_HOST_PASSWORD=env(\"EMAIL_PASSWORD\")",
+        "detail": "library_management_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "library_management_system.urls",
+        "description": "library_management_system.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', views.Home.as_view(), name='home'),\n    path('user/', include('user.urls')),\n    path('books/', include('books.urls')),\n]\nurlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT) #new",
+        "detail": "library_management_system.urls",
+        "documentation": {}
+    },
+    {
+        "label": "Home",
+        "kind": 6,
+        "importPath": "library_management_system.views",
+        "description": "library_management_system.views",
+        "peekOfCode": "class Home(TemplateView):\n    template_name = 'home.html'",
+        "detail": "library_management_system.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "library_management_system.wsgi",
+        "description": "library_management_system.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "library_management_system.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "user.migrations.0001_initial",
+        "description": "user.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('books', '0001_initial'),\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='UserAccountModel',\n            fields=[",
+        "detail": "user.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "user.migrations.0002_remove_purchasemodel_book_and_more",
+        "description": "user.migrations.0002_remove_purchasemodel_book_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('books', '0003_alter_bookmodel_category_commentmodel'),\n        ('user', '0001_initial'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='purchasemodel',\n            name='book',",
+        "detail": "user.migrations.0002_remove_purchasemodel_book_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "UserConfig",
+        "kind": 6,
+        "importPath": "user.apps",
+        "description": "user.apps",
+        "peekOfCode": "class UserConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'user'",
+        "detail": "user.apps",
+        "documentation": {}
+    },
+    {
+        "label": "UserRegistrationForm",
+        "kind": 6,
+        "importPath": "user.forms",
+        "description": "user.forms",
+        "peekOfCode": "class UserRegistrationForm(UserCreationForm):\n    birthday = forms.DateField(widget=forms.DateInput(attrs={'type':'date'}))\n    gender = forms.ChoiceField(choices=GENDER)\n    street1 = forms.CharField(max_length=50)\n    street2 = forms.CharField(max_length=50)\n    city = forms.CharField(max_length=50)\n    postal_code = forms.IntegerField()\n    country = forms.CharField(max_length=50)\n    class Meta:\n        model = User",
+        "detail": "user.forms",
+        "documentation": {}
+    },
+    {
+        "label": "AddMoneyForm",
+        "kind": 6,
+        "importPath": "user.forms",
+        "description": "user.forms",
+        "peekOfCode": "class AddMoneyForm(forms.Form):\n    amount = forms.DecimalField(label='Enter Amount to Deposit', min_value=0)\nclass ChangeUserForm(UserChangeForm):\n    password = None\n    class Meta:\n        model = User\n        fields = ['username', 'first_name', 'last_name', 'email']",
+        "detail": "user.forms",
+        "documentation": {}
+    },
+    {
+        "label": "ChangeUserForm",
+        "kind": 6,
+        "importPath": "user.forms",
+        "description": "user.forms",
+        "peekOfCode": "class ChangeUserForm(UserChangeForm):\n    password = None\n    class Meta:\n        model = User\n        fields = ['username', 'first_name', 'last_name', 'email']",
+        "detail": "user.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserAccountModel",
+        "kind": 6,
+        "importPath": "user.models",
+        "description": "user.models",
+        "peekOfCode": "class UserAccountModel(models.Model):\n    user = models.OneToOneField(User, related_name=\"accounts\", on_delete=models.CASCADE)\n    account = models.IntegerField()\n    birthday = models.DateField()\n    gender = models.CharField(max_length=30, choices=GENDER)\n    initial_deposit_date = models.DateField(auto_now_add=True)\n    balance = models.DecimalField(max_digits=12, decimal_places=2, default=0)\nclass UserAddressModel(models.Model):\n    user = models.OneToOneField(User, related_name=\"address\", on_delete=models.CASCADE)\n    street1 = models.CharField(max_length=50)",
+        "detail": "user.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserAddressModel",
+        "kind": 6,
+        "importPath": "user.models",
+        "description": "user.models",
+        "peekOfCode": "class UserAddressModel(models.Model):\n    user = models.OneToOneField(User, related_name=\"address\", on_delete=models.CASCADE)\n    street1 = models.CharField(max_length=50)\n    street2 = models.CharField(max_length=50)\n    city = models.CharField(max_length=50)\n    postal_code = models.IntegerField()\n    country = models.CharField(max_length=50) \nclass PurchaseModel(models.Model):\n    user = models.ForeignKey(User,on_delete=models.CASCADE)\n    purchase_date = models.DateTimeField(auto_now_add=True)",
+        "detail": "user.models",
+        "documentation": {}
+    },
+    {
+        "label": "PurchaseModel",
+        "kind": 6,
+        "importPath": "user.models",
+        "description": "user.models",
+        "peekOfCode": "class PurchaseModel(models.Model):\n    user = models.ForeignKey(User,on_delete=models.CASCADE)\n    purchase_date = models.DateTimeField(auto_now_add=True)\n    Book = models.ForeignKey(BookModel,on_delete=models.CASCADE, null=True, blank=True)\n    isBorrowed = models.BooleanField(default=True, null = True, blank = True)\n    def __str__(self):\n        return f\"{self.user.first_name}  borrowed : {self.Book.title}\"",
+        "detail": "user.models",
+        "documentation": {}
+    },
+    {
+        "label": "GENDER",
+        "kind": 5,
+        "importPath": "user.models",
+        "description": "user.models",
+        "peekOfCode": "GENDER = (\n    ('Male', 'Male'),\n    ('Female', 'Female'),\n    ('Other', 'Other'),\n)\nclass UserAccountModel(models.Model):\n    user = models.OneToOneField(User, related_name=\"accounts\", on_delete=models.CASCADE)\n    account = models.IntegerField()\n    birthday = models.DateField()\n    gender = models.CharField(max_length=30, choices=GENDER)",
+        "detail": "user.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "user.urls",
+        "description": "user.urls",
+        "peekOfCode": "urlpatterns = [\n    path('registration/', RegistrationView.as_view(), name='registration'),\n    path('login/', UserLoginView.as_view(), name='login'),\n    path('logout/', views.userLogout, name='logout'),\n    path('add_money/', views.add_money, name='add_money'),\n    path('buy_book/<int:book_id>/', BuyBookView.as_view(), name='buy_book'),\n    path('profile/', views.profile_view, name='profile'),\n    path('return_book/<int:book_id>/', ReturnBookView.as_view(), name='return_book'),\n]",
+        "detail": "user.urls",
+        "documentation": {}
+    },
+    {
+        "label": "RegistrationView",
+        "kind": 6,
+        "importPath": "user.views",
+        "description": "user.views",
+        "peekOfCode": "class RegistrationView(FormView):\n    template_name = 'registration_form.html'\n    form_class = UserRegistrationForm\n    success_url = reverse_lazy('registration')\n    def form_valid(self, form):\n        user = form.save()\n        login(self.request, user)\n        return super().form_valid(form)\nclass UserLoginView(LoginView):\n    template_name = 'login.html'",
+        "detail": "user.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserLoginView",
+        "kind": 6,
+        "importPath": "user.views",
+        "description": "user.views",
+        "peekOfCode": "class UserLoginView(LoginView):\n    template_name = 'login.html'\n    def get_success_url(self):\n        return reverse_lazy('home')\n@login_required  \ndef userLogout(request):\n    logout(request)\n    return redirect('home')\n# @login_required\n# def add_money(request):",
+        "detail": "user.views",
+        "documentation": {}
+    },
+    {
+        "label": "EditProfileView",
+        "kind": 6,
+        "importPath": "user.views",
+        "description": "user.views",
+        "peekOfCode": "class EditProfileView(LoginRequiredMixin, FormView):\n    template_name = 'update_profile.html'\n    form_class = ChangeUserForm\n    success_url = reverse_lazy('profile')  # Replace with your actual success URL\n    def form_valid(self, form):\n        form.save()\n        messages.success(self.request, 'Profile Updated Successfully')\n        return super().form_valid(form)\nclass BuyBookView(View):\n    def get(self, request, book_id):",
+        "detail": "user.views",
+        "documentation": {}
+    },
+    {
+        "label": "BuyBookView",
+        "kind": 6,
+        "importPath": "user.views",
+        "description": "user.views",
+        "peekOfCode": "class BuyBookView(View):\n    def get(self, request, book_id):\n        # books = BookModel.objects.all()\n        book = get_object_or_404(BookModel, pk=book_id)\n        user_account = request.user.accounts  # Assuming this gets the related UserAccountModel\n        user = user_account.user  # Retrieve the related User instance\n        comments = book.comments.all()\n        if user_account.balance >= book.price and book.quantity > 0:\n            user_account.balance -= book.price\n            book.quantity -= 1",
+        "detail": "user.views",
+        "documentation": {}
+    },
+    {
+        "label": "ReturnBookView",
+        "kind": 6,
+        "importPath": "user.views",
+        "description": "user.views",
+        "peekOfCode": "class ReturnBookView(View):\n    def get(self, request, book_id):\n        book = get_object_or_404(BookModel, pk=book_id)\n        user_account = request.user.accounts  # related_name accounts ache tai \n        user = user_account.user  # Retrieve the related User instance\n        if user_account.balance >= book.price and book.quantity > 0:\n            user_account.balance += book.price\n            book.quantity += 1\n            user_account.save()\n            book.save()",
+        "detail": "user.views",
+        "documentation": {}
+    },
+    {
+        "label": "send_mail_to_user",
+        "kind": 2,
+        "importPath": "user.views",
+        "description": "user.views",
+        "peekOfCode": "def send_mail_to_user(user, subject, template, added_amount=None):\n    # Retrieve the user account\n    user_account = UserAccountModel.objects.get(user=user)\n    # Calculate the total balance\n    total_balance = user_account.balance\n    # If an added amount is provided, update the balance\n    if added_amount is not None:\n        user_account.balance += added_amount\n        total_balance = user_account.balance\n        user_account.save()",
+        "detail": "user.views",
+        "documentation": {}
+    },
+    {
+        "label": "userLogout",
+        "kind": 2,
+        "importPath": "user.views",
+        "description": "user.views",
+        "peekOfCode": "def userLogout(request):\n    logout(request)\n    return redirect('home')\n# @login_required\n# def add_money(request):\n#     form = AddMoneyForm(request.POST or None)\n#     if request.method == 'POST' and form.is_valid():\n#         amount = form.cleaned_data['amount']\n#         user_account = UserAccountModel.objects.get(user=request.user)\n#         user_account.balance += amount",
+        "detail": "user.views",
+        "documentation": {}
+    },
+    {
+        "label": "add_money",
+        "kind": 2,
+        "importPath": "user.views",
+        "description": "user.views",
+        "peekOfCode": "def add_money(request):\n    form = AddMoneyForm(request.POST or None)\n    if request.method == 'POST' and form.is_valid():\n        amount = form.cleaned_data['amount']\n        user_account = UserAccountModel.objects.get(user=request.user)\n        user_account.balance += amount\n        user_account.save()\n        msg = messages.success(request, f\"{amount} added successfully\")\n        # Send mail notification with added amount\n        send_mail_to_user(request.user, \"Successfully Added Money\", \"addMoneyMail.html\", added_amount=amount)",
+        "detail": "user.views",
+        "documentation": {}
+    },
+    {
+        "label": "profile_view",
+        "kind": 2,
+        "importPath": "user.views",
+        "description": "user.views",
+        "peekOfCode": "def profile_view(request):\n    purchased_books = PurchaseModel.objects.filter(user=request.user.accounts.user, isBorrowed=True)\n    context = {\n        'books': purchased_books,\n    }\n    return render(request, 'profile.html', context)\n#update profile\nclass EditProfileView(LoginRequiredMixin, FormView):\n    template_name = 'update_profile.html'\n    form_class = ChangeUserForm",
+        "detail": "user.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'library_management_system.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]

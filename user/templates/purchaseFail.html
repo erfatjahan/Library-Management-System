@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Deposit Confirmation</title>
+    <style>
+        /* Add some basic styles for readability */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #007bff;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .thank-you {
+            text-align: center;
+            margin-top: 20px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Hi, {{ user.first_name }} {{ user.last_name }}</h1>
+
+        <p>
+            <string>Ooops!</string> You are unable to return your book. Due to insufficient balace or other other issue.
+        </p>
+
+        <div class="thank-you">
+            <p>Thank you for connecting with us!</p>
+            <p>The Fairyland</p>
+        </div>
+    </div>
+</body>
+</html>
