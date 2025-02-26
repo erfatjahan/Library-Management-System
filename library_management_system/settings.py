@@ -102,7 +102,7 @@ DATABASES = {
     )
 }
 # CSRF_TRUSTED_ORIGINS = [
-#     'https://the-fairyland.onrender.com',
+# 
 # ]
 
 # Password validation
