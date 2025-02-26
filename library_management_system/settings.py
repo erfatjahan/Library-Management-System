@@ -101,9 +101,9 @@ DATABASES = {
         default='postgresql://library_management_system_ko8n_user:DV2n44MRyKco3YmL77hRhqIXwHklixoY@dpg-cuukdkdsvqrc73dmspeg-a.oregon-postgres.render.com/library_management_system_ko8n',
     )
 }
-# CSRF_TRUSTED_ORIGINS = [
-# 
-# ]
+CSRF_TRUSTED_ORIGINS = [
+    "https://library-management-system-7sde.onrender.com"
+]
 
 # Password validation
 # https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators
