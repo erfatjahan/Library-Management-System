@@ -19,7 +19,7 @@
         {% if books %}
         {% for book in books %}
         <div class="bg-white rounded-lg shadow-2xl p-4">
-            <img src="{{ book.image.url }}" alt="{{ book.title }}" class="w-full h-40 object-cover rounded-md mb-4">
+            <img src="{{ book.image.url }}" alt="{{ books.title }}" class="w-full h-40 object-cover rounded-md mb-4">
             <h2 class="text-xl font-semibold mb-2">{{ book.title }}</h2>
             <p class="text-gray-600 mb-2 font-bold">Price: ${{ book.price }}</p>
             <p class="text-gray-600 mb-2">Description: {{ book.description | truncatechars:30 }}</p>
@@ -37,7 +37,6 @@
         
         {% else %}
         <p class="text-3xl font-bold text-center"> No items available </p>
-
         {% endif %}
     </div>
 </div>

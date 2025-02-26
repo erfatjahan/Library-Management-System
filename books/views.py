@@ -17,7 +17,6 @@ def all_books(request, category_slug=None):
 
     return render(request, 'book_list.html', {'books': books, 'categories': category})
 
-
 class ShowDetails(DetailView):
     model = BookModel
     template_name = 'details.html'

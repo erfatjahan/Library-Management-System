@@ -7,3 +7,4 @@ urlpatterns = [
     path('comment/<int:id>/', ShowDetails.as_view(), name='comment_page'),
     path('category_wise_book/<slug:category_slug>/', all_books, name='category_wise_book'),
 ]
+

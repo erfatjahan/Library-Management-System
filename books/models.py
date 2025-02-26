@@ -14,8 +14,6 @@ class BookModel(models.Model):
     
     def __str__(self) -> str:
         return f"{self.category} -> {self.title}"
-    
-    
 class CommentModel(models.Model):
     name = models.CharField(max_length=30)
     post_book = models.ForeignKey(BookModel, on_delete=models.CASCADE, related_name='comments')

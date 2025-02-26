@@ -98,12 +98,12 @@ WSGI_APPLICATION = 'library_management_system.wsgi.application'
 DATABASES = {
     'default': dj_database_url.config(
         # Feel free to alter this value to suit your needs.
-        default='postgres://thefairyland_user:6XQZlN1Q6zLdmBwCQXcyQeKA6y9qrY9c@dpg-cm9heuvqd2ns73dq4d80-a.oregon-postgres.render.com/thefairyland',
+        default='postgresql://library_management_system_ko8n_user:DV2n44MRyKco3YmL77hRhqIXwHklixoY@dpg-cuukdkdsvqrc73dmspeg-a.oregon-postgres.render.com/library_management_system_ko8n',
     )
 }
-CSRF_TRUSTED_ORIGINS = [
-    'https://the-fairyland.onrender.com',
-]
+# CSRF_TRUSTED_ORIGINS = [
+#     'https://the-fairyland.onrender.com',
+# ]
 
 # Password validation
 # https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators
